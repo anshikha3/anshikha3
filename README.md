@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anshikha3
-- 👀 I’m interested in web devloping
+- 👀 I’m interested in web developing
 - 🌱 I’m currently learning cpp
 - 💞️ I’m looking to collaborate on nothing for now
 - 📫 How to reach me ...
