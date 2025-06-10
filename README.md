@@ -5,7 +5,7 @@ Hello! My name is Anshikha, and I am studying BCA at Amity University. As I stud
 
 🧠 I'm currently learning - JavaScript
 
-📫 How to reach me - [anshikhasharma@amityonline.com](mailto:anshikhasharma@amityonline.com)
+📫 How to reach me - [anshikha3124.sharma@gmail.com](mailto:anshikha3124.sharma@gmail.com)
 
 😄 Pronouns - She/her
 
